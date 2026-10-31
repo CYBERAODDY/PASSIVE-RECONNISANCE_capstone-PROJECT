@@ -38,4 +38,4 @@ whois, dig, nslookup, theHarvester, whatweb, and (for the active phase) Nmap.
 
 ## Team
 
-[Team member names]
+TANIMOLA AYOMIDE ERIC
